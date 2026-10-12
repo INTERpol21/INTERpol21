@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="7+ лет опыта; 12+ AI-продуктов на одном ядре; 90+ моделей за одним шлюзом; 2M+ пользователей; команда из 8 инженеров; 95%+ успешных платежей">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="7+ лет опыта; 12+ AI-продуктов на одном ядре; 151+ нейросеть на одном шлюзе; 2M+ пользователей; команда из 8 инженеров; 95%+ успешных платежей">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0b1124"/>
@@ -27,7 +27,7 @@
   <g class="t">
     <g class="cell"><text class="n" x="100" y="78">7+</text><text class="l" x="100" y="104">лет в разработке</text></g>
     <g class="cell c2"><text class="n" x="300" y="78">12+</text><text class="l" x="300" y="104">AI-продуктов</text><text class="l" x="300" y="122">на одном ядре</text></g>
-    <g class="cell c3"><text class="n" x="500" y="78">90+</text><text class="l" x="500" y="104">моделей за одним</text><text class="l" x="500" y="122">шлюзом</text></g>
+    <g class="cell c3"><text class="n" x="500" y="78">151+</text><text class="l" x="500" y="104">нейросеть на</text><text class="l" x="500" y="122">одном шлюзе</text></g>
     <g class="cell c4"><text class="n" x="700" y="78">2M+</text><text class="l" x="700" y="104">пользователей</text><text class="l" x="700" y="122">Web3-платформы</text></g>
     <g class="cell c5"><text class="n" x="900" y="78">8</text><text class="l" x="900" y="104">инженеров</text><text class="l" x="900" y="122">в команде</text></g>
     <g class="cell c6"><text class="n" x="1100" y="78">95%+</text><text class="l" x="1100" y="104">успешных</text><text class="l" x="1100" y="122">платежей</text></g>
