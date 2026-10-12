@@ -44,7 +44,7 @@ flowchart LR
 
 ## 🚀 Продукты
 
-45+ продуктов за 7 лет — от AI-экосистемы и Web3 до платежей, PropTech и e-commerce. 🟢 — работает сейчас, 🗄 — продукт закрыт, ссылка ведёт на снимок в Web Archive.
+45+ продуктов за 7 лет — от AI-экосистемы и Web3 до платежей, PropTech и e-commerce. 🟢 — работает сейчас, 🗄 — продукт закрыт, ссылка ведёт на снимок в Web Archive, 📄 — публичный кейс заказчика.
 
 <table>
 <tr><th align="left">Продукт</th><th align="left">Что это и что делал я</th><th align="left">Стек</th><th align="left">Ссылка</th></tr>
@@ -62,7 +62,7 @@ flowchart LR
 <tr><td><b>iGaming-платформа Volta</b></td><td>4 000+ игр от 50+ провайдеров, платежи, бонусы, турниры, сотни тысяч пользователей — Team Lead Frontend трёх команд, админка и бэк-офис</td><td>Vue 3 · Nuxt 3 · NestJS · Laravel · Kafka · ClickHouse</td><td>—</td></tr>
 
 <tr><td colspan="4"><b>Competent IT</b> — 2024–2025</td></tr>
-<tr><td><b>Meta Force Space</b></td><td>Международная Web3-платформа на Polygon, 2M+ пользователей: маркетплейс, академия, W-DEX swap, Meta Whale — fullstack-архитектура, MVP за 4 месяца</td><td>React 18 · Vue 3 · NestJS · ethers.js · Kubernetes</td><td>🗄 <a href="https://web.archive.org/web/20250121/https://meta-force.space/">meta-force.space</a></td></tr>
+<tr><td><b>Meta Force Space</b></td><td>Сложный технический продукт: международная Web3-платформа и метавселенная на Polygon, 2M+ пользователей. Токен расчётов Forcecoin (MFS), ядро метавселенной Uniteverse, некастодиальный Force Wallet и маркетплейс, NFT Goods (виртуальный предмет, физический товар или стейкинг), кешбэк-программа Tactile, академия, W-DEX swap — fullstack-архитектура, MVP за 4 месяца</td><td>React 18 · Vue 3 · NestJS · ethers.js · Kubernetes</td><td>🗄 <a href="https://web.archive.org/web/20250121/https://meta-force.space/">meta-force.space</a></td></tr>
 <tr><td><b>Дизайн-система Competent IT</b></td><td>40+ типизированных компонентов для 3+ команд, npm publish и CI/CD — сборка интерфейсов в 2 раза быстрее</td><td>React · Next.js · Tailwind · Storybook</td><td>—</td></tr>
 
 <tr><td colspan="4"><b>PR-группа Буржуй</b> — 2022–2024</td></tr>
@@ -71,10 +71,11 @@ flowchart LR
 <tr><td><b>PayQR.Global</b></td><td>Платёжная B2B-платформа для торговли с Азией: P2P-сделки, статусные машины, идемпотентные вебхуки, 3+ шлюза</td><td>Vue 2 · Node.js · PostgreSQL · Redis</td><td>🗄 <a href="https://web.archive.org/web/20230403/https://payqr.global/">payqr.global</a></td></tr>
 <tr><td><b>Noglasses</b></td><td>Сайт офтальмологической клиники с интеграцией ПроДокторов и админкой</td><td>Vue · REST · SEO</td><td>🟢 <a href="https://noglasses.ru">noglasses.ru</a></td></tr>
 <tr><td><b>Car-City</b></td><td>Аренда и лизинг авто для такси: калькуляторы, каталог, заявки</td><td>Vue · Nginx</td><td>🟢 <a href="https://car-city.pro">car-city.pro</a></td></tr>
+<tr><td><b>ОАК</b></td><td>Корпоративный сайт Объединённой авиастроительной корпорации: модельный ряд гражданской, военной и транспортной авиации, пресс-центр, раздел для инвесторов</td><td>1С-Битрикс · PHP · jQuery</td><td>🟢 <a href="https://uacrussia.ru/ru/">uacrussia.ru</a></td></tr>
 <tr><td><b>GastroTula</b></td><td>Гастрономический путеводитель с интерактивной картой и e-commerce</td><td>Vue · SCSS · REST</td><td>🗄 <a href="https://web.archive.org/web/20260113/https://gastrotula.ru/">gastrotula.ru</a></td></tr>
 
 <tr><td colspan="4"><b>Routeam</b> — 2021–2022</td></tr>
-<tr><td><b>Онлайн-аптека</b></td><td>Складской модуль федеральной аптечной сети: 5 000+ пользователей в сутки, 100 000+ позиций, загрузка быстрее на 40%</td><td>React 18 · Redux Toolkit · React Query</td><td>—</td></tr>
+<tr><td><b>Бронев</b></td><td>Платформа продажи автобусных билетов и управления рейсами: кабинет перевозчика, рабочие места кассира и агента (места по схеме салона, скидки, возвраты), 9 ролей на SSO, 7 типов расписаний, 11 отчётных форм — до прода за 7 месяцев</td><td>Vue 2 · Vuex · SSO/OAuth2/JWT · REST</td><td>📄 <a href="https://routeam.ru/cases/bronev-bus-platform/">кейс Routeam</a></td></tr>
 
 <tr><td colspan="4"><b>ИП Полуэктов</b> — 2020–2021, соло от схемы БД до деплоя</td></tr>
 <tr><td><b>Upravhouse</b></td><td>Цифровая платформа для ЖКХ: CRM заявок, SLA-уведомления, Telegram-бот — минус 40% нагрузки на колл-центр</td><td>Vue · Node.js · PostgreSQL</td><td>🗄 <a href="https://web.archive.org/web/20250423/https://upravhouse.ru/">upravhouse.ru</a></td></tr>
@@ -87,40 +88,48 @@ flowchart LR
 
 ## 🖼 Галерея продуктов
 
-Первые экраны продуктов, которые я делал. Клик по кадру открывает продукт, закрытые проекты сняты из Web Archive.
+Первые экраны продуктов, которые я делал. Клик по кадру открывает продукт; закрытые проекты сняты из Web Archive, для Meta Force — обложка проекта (живых экранов не осталось).
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://era2.ai"><img src="assets/products/01-era2.jpg" width="100%" alt="ERA2 — агрегатор 151+ нейросетей"/></a><br/><b>ERA2</b> — агрегатор 151+ нейросетей · <a href="https://era2.ai">era2.ai</a></td>
-<td width="50%" valign="top"><a href="https://partner.era2.ai"><img src="assets/products/10-era2-partner.jpg" width="100%" alt="Экосистема ERA2 — витрина 31 продукта"/></a><br/><b>Экосистема ERA2</b> — витрина 31 продукта · <a href="https://partner.era2.ai">partner.era2.ai</a></td>
+<td width="50%" valign="top"><a href="https://era2.ai"><img src="assets/products/01-era2.jpg" width="100%" alt="ERA2 — агрегатор 151+ нейросетей"/></a><br/><b>ERA2</b> — агрегатор 151+ нейросетей · <a href="https://era2.ai">era2.ai</a><br/><sub>Собрал ядро: шлюз, очередь генераций, RAG, кредитный биллинг; Tech Lead команды 8</sub></td>
+<td width="50%" valign="top"><a href="https://partner.era2.ai"><img src="assets/products/10-era2-partner.jpg" width="100%" alt="Экосистема ERA2 — витрина 31 продукта"/></a><br/><b>Экосистема ERA2</b> — витрина 31 продукта · <a href="https://partner.era2.ai">partner.era2.ai</a><br/><sub>31 AI-продукт и 500K+ пользователей на одном ядре</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibeplus.ai"><img src="assets/products/03-vibeplus.jpg" width="100%" alt="+Вайб — фотосессии и видео · 500K пользователей"/></a><br/><b>+Вайб</b> — фотосессии и видео · 500K пользователей · <a href="https://vibeplus.ai">vibeplus.ai</a></td>
-<td width="50%" valign="top"><a href="https://neyrohub.io"><img src="assets/products/02-neyrohub.jpg" width="100%" alt="NeyroHub — ИИ-чат, картинки и видео"/></a><br/><b>NeyroHub</b> — ИИ-чат, картинки и видео · <a href="https://neyrohub.io">neyrohub.io</a></td>
+<td width="50%" valign="top"><a href="https://vibeplus.ai"><img src="assets/products/03-vibeplus.jpg" width="100%" alt="+Вайб — фотосессии и видео · 500K пользователей"/></a><br/><b>+Вайб</b> — фотосессии и видео · 500K пользователей · <a href="https://vibeplus.ai">vibeplus.ai</a><br/><sub>Генерации через общий шлюз и очередь, 6000+ образов</sub></td>
+<td width="50%" valign="top"><a href="https://neyrohub.io"><img src="assets/products/02-neyrohub.jpg" width="100%" alt="NeyroHub — ИИ-чат, картинки и видео"/></a><br/><b>NeyroHub</b> — ИИ-чат, картинки и видео · <a href="https://neyrohub.io">neyrohub.io</a><br/><sub>Один тариф на все модели: общий шлюз и биллинг</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://ivoxstudio.ru"><img src="assets/products/04-ivox-studio.jpg" width="100%" alt="iVox Studio — озвучка 200+ голосами"/></a><br/><b>iVox Studio</b> — озвучка 200+ голосами · <a href="https://ivoxstudio.ru">ivoxstudio.ru</a></td>
-<td width="50%" valign="top"><a href="https://voice.era2.ai"><img src="assets/products/07-era2-voice.jpg" width="100%" alt="ERA2 Voice — озвучка текста нейросетью"/></a><br/><b>ERA2 Voice</b> — озвучка текста нейросетью · <a href="https://voice.era2.ai">voice.era2.ai</a></td>
+<td width="50%" valign="top"><a href="https://ivoxstudio.ru"><img src="assets/products/04-ivox-studio.jpg" width="100%" alt="iVox Studio — озвучка 200+ голосами"/></a><br/><b>iVox Studio</b> — озвучка 200+ голосами · <a href="https://ivoxstudio.ru">ivoxstudio.ru</a><br/><sub>TTS на 70+ языках, клон голоса, словарь ударений из RAG</sub></td>
+<td width="50%" valign="top"><a href="https://voice.era2.ai"><img src="assets/products/07-era2-voice.jpg" width="100%" alt="ERA2 Voice — озвучка текста нейросетью"/></a><br/><b>ERA2 Voice</b> — озвучка текста нейросетью · <a href="https://voice.era2.ai">voice.era2.ai</a><br/><sub>Озвучка в экосистеме ERA2 на том же ядре</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://music.era2.ai"><img src="assets/products/05-era2-music.jpg" width="100%" alt="ERA2 Music — песни на русском за минуту"/></a><br/><b>ERA2 Music</b> — песни на русском за минуту · <a href="https://music.era2.ai">music.era2.ai</a></td>
-<td width="50%" valign="top"><a href="https://card.era2.ai"><img src="assets/products/06-era2-card.jpg" width="100%" alt="ERA2 Card — карточки для Wildberries и Ozon"/></a><br/><b>ERA2 Card</b> — карточки для Wildberries и Ozon · <a href="https://card.era2.ai">card.era2.ai</a></td>
+<td width="50%" valign="top"><a href="https://music.era2.ai"><img src="assets/products/05-era2-music.jpg" width="100%" alt="ERA2 Music — песни на русском за минуту"/></a><br/><b>ERA2 Music</b> — песни на русском за минуту · <a href="https://music.era2.ai">music.era2.ai</a><br/><sub>Текст, музыка и вокал через очередь генераций</sub></td>
+<td width="50%" valign="top"><a href="https://card.era2.ai"><img src="assets/products/06-era2-card.jpg" width="100%" alt="ERA2 Card — карточки для Wildberries и Ozon"/></a><br/><b>ERA2 Card</b> — карточки для Wildberries и Ozon · <a href="https://card.era2.ai">card.era2.ai</a><br/><sub>Изображения и тексты под требования маркетплейсов</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://t.me/Bananogenbot"><img src="assets/products/08-bananogen.jpg" width="100%" alt="БананоГен — картинки и видео в Telegram · 81K"/></a><br/><b>БананоГен</b> — картинки и видео в Telegram · 81K · <a href="https://t.me/Bananogenbot">@Bananogenbot</a></td>
-<td width="50%" valign="top"><a href="https://t.me/pesnyaAibot"><img src="assets/products/09-pesnya-ai.jpg" width="100%" alt="ПесняAI — музыка в Telegram · 30K"/></a><br/><b>ПесняAI</b> — музыка в Telegram · 30K · <a href="https://t.me/pesnyaAibot">@pesnyaAibot</a></td>
+<td width="50%" valign="top"><a href="https://t.me/Bananogenbot"><img src="assets/products/08-bananogen.jpg" width="100%" alt="БананоГен — картинки и видео в Telegram · 81K"/></a><br/><b>БананоГен</b> — картинки и видео в Telegram · 81K · <a href="https://t.me/Bananogenbot">@Bananogenbot</a><br/><sub>Telegram-бот на Nano Banana и Veo поверх общего шлюза</sub></td>
+<td width="50%" valign="top"><a href="https://t.me/pesnyaAibot"><img src="assets/products/09-pesnya-ai.jpg" width="100%" alt="ПесняAI — музыка в Telegram · 30K"/></a><br/><b>ПесняAI</b> — музыка в Telegram · 30K · <a href="https://t.me/pesnyaAibot">@pesnyaAibot</a><br/><sub>Песня по описанию прямо в Telegram</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://kefirium.ru"><img src="assets/products/11-kefirium.jpg" width="100%" alt="Kefirium — первый рублёвый NFT-маркетплейс"/></a><br/><b>Kefirium</b> — первый рублёвый NFT-маркетплейс · <a href="https://kefirium.ru">kefirium.ru</a></td>
-<td width="50%" valign="top"><a href="https://zoloto55.ru"><img src="assets/products/19-zoloto55.jpg" width="100%" alt="Zoloto55 — ювелирный интернет-магазин"/></a><br/><b>Zoloto55</b> — ювелирный интернет-магазин · <a href="https://zoloto55.ru">zoloto55.ru</a></td>
+<td width="50%" valign="top"><a href="https://web.archive.org/web/20250121/https://meta-force.space/"><img src="assets/products/12-meta-force-space.jpg" width="100%" alt="Meta Force Space — Web3-платформа и метавселенная · 2M+"/></a><br/><b>Meta Force Space</b> — Web3-платформа и метавселенная · 2M+ · <a href="https://web.archive.org/web/20250121/https://meta-force.space/">meta-force.space</a><br/><sub>Обложка проекта, платформа закрыта. Forcecoin, Uniteverse, Force Wallet, маркетплейс, NFT Goods; fullstack, MVP за 4 месяца</sub></td>
+<td width="50%" valign="top"><a href="https://kefirium.ru"><img src="assets/products/11-kefirium.jpg" width="100%" alt="Kefirium — первый рублёвый NFT-маркетплейс"/></a><br/><b>Kefirium</b> — первый рублёвый NFT-маркетплейс · <a href="https://kefirium.ru">kefirium.ru</a><br/><sub>Nuxt SSR/PWA, Node.js, смарт-контракты, live-дропы</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://noglasses.ru"><img src="assets/products/14-noglasses.jpg" width="100%" alt="Noglasses — сайт офтальмологической клиники"/></a><br/><b>Noglasses</b> — сайт офтальмологической клиники · <a href="https://noglasses.ru">noglasses.ru</a></td>
-<td width="50%" valign="top"><a href="https://car-city.pro"><img src="assets/products/15-car-city.jpg" width="100%" alt="Car-City — аренда авто для такси"/></a><br/><b>Car-City</b> — аренда авто для такси · <a href="https://car-city.pro">car-city.pro</a></td>
+<td width="50%" valign="top"><a href="https://uacrussia.ru/ru/"><img src="assets/products/21-uac.jpg" width="100%" alt="ОАК — Объединённая авиастроительная корпорация"/></a><br/><b>ОАК</b> — Объединённая авиастроительная корпорация · <a href="https://uacrussia.ru/ru/">uacrussia.ru</a><br/><sub>Корпоративный сайт: модельный ряд, пресс-центр, раздел для инвесторов (1С-Битрикс)</sub></td>
+<td width="50%" valign="top"><a href="https://car-city.pro"><img src="assets/products/15-car-city.jpg" width="100%" alt="Car-City — аренда авто для такси"/></a><br/><b>Car-City</b> — аренда авто для такси · <a href="https://car-city.pro">car-city.pro</a><br/><sub>Каталог, калькуляторы стоимости, онлайн-заявки</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://web.archive.org/web/20260113/https://gastrotula.ru/"><img src="assets/products/16-gastrotula.jpg" width="100%" alt="GastroTula — гастропутеводитель · архив 01.2026"/></a><br/><b>GastroTula</b> — гастропутеводитель · архив 01.2026 · <a href="https://web.archive.org/web/20260113/https://gastrotula.ru/">gastrotula.ru</a></td>
-<td width="50%" valign="top"><a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/"><img src="assets/products/18-leverans.jpg" width="100%" alt="Leverans — доставка еды с CRM · архив 04.2026"/></a><br/><b>Leverans</b> — доставка еды с CRM · архив 04.2026 · <a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/">omsk.leverans.ru</a></td>
+<td width="50%" valign="top"><a href="https://noglasses.ru"><img src="assets/products/14-noglasses.jpg" width="100%" alt="Noglasses — сайт офтальмологической клиники"/></a><br/><b>Noglasses</b> — сайт офтальмологической клиники · <a href="https://noglasses.ru">noglasses.ru</a><br/><sub>Запись на приём, отзывы ПроДокторов, админка</sub></td>
+<td width="50%" valign="top"><a href="https://web.archive.org/web/20260113/https://gastrotula.ru/"><img src="assets/products/16-gastrotula.jpg" width="100%" alt="GastroTula — гастропутеводитель · архив 01.2026"/></a><br/><b>GastroTula</b> — гастропутеводитель · архив 01.2026 · <a href="https://web.archive.org/web/20260113/https://gastrotula.ru/">gastrotula.ru</a><br/><sub>Интерактивная карта маршрутов и e-commerce</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://routeam.ru/cases/bronev-bus-platform/"><img src="assets/products/22-routeam-bronev.jpg" width="100%" alt="Бронев (Routeam) — продажа автобусных билетов и рейсы"/></a><br/><b>Бронев (Routeam)</b> — продажа автобусных билетов и рейсы · <a href="https://routeam.ru/cases/bronev-bus-platform/">кейс Routeam</a><br/><sub>Кабинет перевозчика, места кассира и агента на Vue 2, 9 ролей на SSO, 11 отчётных форм</sub></td>
+<td width="50%" valign="top"><a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/"><img src="assets/products/18-leverans.jpg" width="100%" alt="Leverans — доставка еды с CRM · архив 04.2026"/></a><br/><b>Leverans</b> — доставка еды с CRM · архив 04.2026 · <a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/">omsk.leverans.ru</a><br/><sub>Соло от схемы БД до деплоя: каталог, заказы, CRM операторов</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://zoloto55.ru"><img src="assets/products/19-zoloto55.jpg" width="100%" alt="Zoloto55 — ювелирный интернет-магазин (Asmart-group)"/></a><br/><b>Zoloto55</b> — ювелирный интернет-магазин (Asmart-group) · <a href="https://zoloto55.ru">zoloto55.ru</a><br/><sub>Каталог, фильтры, карточки товаров; загрузка до 1,8 с</sub></td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -134,16 +143,17 @@ flowchart LR
 - Team Lead Frontend трёх кросс-функциональных команд, затем Tech Lead ERA2: найм, перформанс-ревью, 1:1, архитектура, релизный процесс.
 
 **Competent IT** — Senior Fullstack → Team Lead · *июль 2024 — июль 2025*
-- Web3-платформа Meta Force Space (2M+ пользователей, Polygon): fullstack-архитектура на React 18, Vue 3, NestJS и PostgreSQL, MVP в прод меньше чем за 4 месяца.
+- Web3-платформа Meta Force Space (2M+ пользователей, Polygon): токен Forcecoin, ядро метавселенной Uniteverse, Force Wallet, маркетплейс и NFT Goods — fullstack-архитектура на React 18, Vue 3, NestJS и PostgreSQL, MVP в прод меньше чем за 4 месяца.
 - Корпоративная дизайн-система на React/Next.js, Tailwind и Storybook: 40+ компонентов, 3+ команды-потребителя, сборка типовых интерфейсов в 2 раза быстрее.
 
 **PR-группа Буржуй** — Fullstack → Tech Lead · *апрель 2022 — июнь 2024*
 - Kefirium: highload NFT-маркетплейс на Nuxt (SSR/PWA) и Node.js, смарт-контракты на Solidity, IPFS; ключевые страницы грузятся быстрее 2,5 с.
 - Live-аукцион Soda AVS: ставки по WebSocket быстрее 300 мс при сотнях одновременных участников, консистентность через транзакции и row-level блокировки.
 - PayQR.Global: транзакционный слой P2P-сделок — ACID, статусные машины, идемпотентные вебхуки, сверки, 3+ платёжных шлюза.
+- Сайты Car-City (аренда авто для такси), Noglasses, GastroTula и корпоративный сайт ОАК (uacrussia.ru).
 
-**Routeam** — Frontend (React), проектный контракт · *октябрь 2021 — апрель 2022*
-- Модуль склада федеральной аптечной сети: до прода за 7 месяцев, 5 000+ пользователей в сутки, 100 000+ позиций, загрузка быстрее на 40%+.
+**Routeam** — Frontend (Vue), проектный контракт · *октябрь 2021 — апрель 2022*
+- «Бронев» — платформа продажи автобусных билетов и управления рейсами: кабинет перевозчика и рабочие места кассира и агента на Vue 2 + Vuex, 9 ролей на SSO/OAuth2/JWT, 11 отчётных форм; до прода за 7 месяцев.
 
 **ИП Полуэктов** — Fullstack (Vue / Node.js), соло · *август 2020 — октябрь 2021*
 - Два продукта от схемы БД до деплоя: CRM для ЖКХ Upravhouse и доставка еды Leverans; Telegram-бот снял с колл-центра ~40% нагрузки.
