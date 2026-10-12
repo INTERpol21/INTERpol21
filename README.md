@@ -85,6 +85,45 @@ flowchart LR
 <tr><td><b>GotoOmsk</b></td><td>Портал Туристского информационного центра Омской области</td><td>Vue 2 · REST</td><td>🗄 <a href="https://web.archive.org/web/20260613/https://gotoomsk.ru/">gotoomsk.ru</a></td></tr>
 </table>
 
+## 🖼 Галерея продуктов
+
+Первые экраны продуктов, которые я делал. Клик по кадру открывает продукт, закрытые проекты сняты из Web Archive.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://era2.ai"><img src="assets/products/01-era2.jpg" width="100%" alt="ERA2 — агрегатор 151+ нейросетей"/></a><br/><b>ERA2</b> — агрегатор 151+ нейросетей · <a href="https://era2.ai">era2.ai</a></td>
+<td width="50%" valign="top"><a href="https://partner.era2.ai"><img src="assets/products/10-era2-partner.jpg" width="100%" alt="Экосистема ERA2 — витрина 31 продукта"/></a><br/><b>Экосистема ERA2</b> — витрина 31 продукта · <a href="https://partner.era2.ai">partner.era2.ai</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibeplus.ai"><img src="assets/products/03-vibeplus.jpg" width="100%" alt="+Вайб — фотосессии и видео · 500K пользователей"/></a><br/><b>+Вайб</b> — фотосессии и видео · 500K пользователей · <a href="https://vibeplus.ai">vibeplus.ai</a></td>
+<td width="50%" valign="top"><a href="https://neyrohub.io"><img src="assets/products/02-neyrohub.jpg" width="100%" alt="NeyroHub — ИИ-чат, картинки и видео"/></a><br/><b>NeyroHub</b> — ИИ-чат, картинки и видео · <a href="https://neyrohub.io">neyrohub.io</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://ivoxstudio.ru"><img src="assets/products/04-ivox-studio.jpg" width="100%" alt="iVox Studio — озвучка 200+ голосами"/></a><br/><b>iVox Studio</b> — озвучка 200+ голосами · <a href="https://ivoxstudio.ru">ivoxstudio.ru</a></td>
+<td width="50%" valign="top"><a href="https://voice.era2.ai"><img src="assets/products/07-era2-voice.jpg" width="100%" alt="ERA2 Voice — озвучка текста нейросетью"/></a><br/><b>ERA2 Voice</b> — озвучка текста нейросетью · <a href="https://voice.era2.ai">voice.era2.ai</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://music.era2.ai"><img src="assets/products/05-era2-music.jpg" width="100%" alt="ERA2 Music — песни на русском за минуту"/></a><br/><b>ERA2 Music</b> — песни на русском за минуту · <a href="https://music.era2.ai">music.era2.ai</a></td>
+<td width="50%" valign="top"><a href="https://card.era2.ai"><img src="assets/products/06-era2-card.jpg" width="100%" alt="ERA2 Card — карточки для Wildberries и Ozon"/></a><br/><b>ERA2 Card</b> — карточки для Wildberries и Ozon · <a href="https://card.era2.ai">card.era2.ai</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://t.me/Bananogenbot"><img src="assets/products/08-bananogen.jpg" width="100%" alt="БананоГен — картинки и видео в Telegram · 81K"/></a><br/><b>БананоГен</b> — картинки и видео в Telegram · 81K · <a href="https://t.me/Bananogenbot">@Bananogenbot</a></td>
+<td width="50%" valign="top"><a href="https://t.me/pesnyaAibot"><img src="assets/products/09-pesnya-ai.jpg" width="100%" alt="ПесняAI — музыка в Telegram · 30K"/></a><br/><b>ПесняAI</b> — музыка в Telegram · 30K · <a href="https://t.me/pesnyaAibot">@pesnyaAibot</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://kefirium.ru"><img src="assets/products/11-kefirium.jpg" width="100%" alt="Kefirium — первый рублёвый NFT-маркетплейс"/></a><br/><b>Kefirium</b> — первый рублёвый NFT-маркетплейс · <a href="https://kefirium.ru">kefirium.ru</a></td>
+<td width="50%" valign="top"><a href="https://zoloto55.ru"><img src="assets/products/19-zoloto55.jpg" width="100%" alt="Zoloto55 — ювелирный интернет-магазин"/></a><br/><b>Zoloto55</b> — ювелирный интернет-магазин · <a href="https://zoloto55.ru">zoloto55.ru</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://noglasses.ru"><img src="assets/products/14-noglasses.jpg" width="100%" alt="Noglasses — сайт офтальмологической клиники"/></a><br/><b>Noglasses</b> — сайт офтальмологической клиники · <a href="https://noglasses.ru">noglasses.ru</a></td>
+<td width="50%" valign="top"><a href="https://car-city.pro"><img src="assets/products/15-car-city.jpg" width="100%" alt="Car-City — аренда авто для такси"/></a><br/><b>Car-City</b> — аренда авто для такси · <a href="https://car-city.pro">car-city.pro</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://web.archive.org/web/20260113/https://gastrotula.ru/"><img src="assets/products/16-gastrotula.jpg" width="100%" alt="GastroTula — гастропутеводитель · архив 01.2026"/></a><br/><b>GastroTula</b> — гастропутеводитель · архив 01.2026 · <a href="https://web.archive.org/web/20260113/https://gastrotula.ru/">gastrotula.ru</a></td>
+<td width="50%" valign="top"><a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/"><img src="assets/products/18-leverans.jpg" width="100%" alt="Leverans — доставка еды с CRM · архив 04.2026"/></a><br/><b>Leverans</b> — доставка еды с CRM · архив 04.2026 · <a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/">omsk.leverans.ru</a></td>
+</tr>
+</table>
+
 ## 🧭 Опыт
 
 **Volta Tech · ERA2** — Senior Fullstack → Team Lead → Tech Lead команды 8 · *июль 2025 — июнь 2026*
