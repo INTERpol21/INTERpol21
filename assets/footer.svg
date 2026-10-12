@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Открыт к ролям Senior Fullstack / Backend и Tech Lead">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="0.5" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#ff5ca8"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; text-anchor: middle; }
+      .wave { animation: drift 9s ease-in-out infinite alternate; }
+      .wave2 { animation: drift 12s ease-in-out infinite alternate-reverse; }
+      @keyframes drift { from { transform: translateX(-40px) } to { transform: translateX(40px) } }
+    </style>
+  </defs>
+  <path class="wave2" d="M-60 70 C 140 30, 340 110, 540 70 S 940 30, 1260 70 V140 H-60 Z" fill="url(#w)" opacity="0.22"/>
+  <path class="wave" d="M-60 90 C 160 55, 360 125, 560 90 S 960 50, 1260 90 V140 H-60 Z" fill="url(#w)" opacity="0.4"/>
+  <text class="t" x="600" y="44" font-size="20" font-weight="700" fill="#8f7bff">Senior Fullstack / Backend · Tech Lead · AI / LLM platforms</text>
+</svg>

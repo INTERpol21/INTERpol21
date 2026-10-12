@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Anton Zhuravlev — Senior Fullstack / Backend Engineer, Tech Lead, AI/LLM platforms">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1a"/>
+      <stop offset="0.55" stop-color="#0e1533"/>
+      <stop offset="1" stop-color="#1a0f3d"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00d1ff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#00d1ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#c9d4ff"/>
+      <stop offset="1" stop-color="#9f8bff"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="330" rx="18"/></clipPath>
+    <style>
+      .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .chip { fill: #ffffff; fill-opacity: 0.06; stroke: #8fa2ff; stroke-opacity: 0.35; }
+      .chiptext { fill: #dfe5ff; font-size: 15px; font-weight: 600; }
+      .pulse { animation: pulse 5s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      .pulse2 { animation: pulse 7s ease-in-out infinite reverse; transform-origin: center; transform-box: fill-box; }
+      .flow { stroke-dasharray: 6 10; animation: flow 2.4s linear infinite; }
+      .blink { animation: blink 2.8s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { transform: scale(1); opacity: .85 } 50% { transform: scale(1.12); opacity: 1 } }
+      @keyframes flow { to { stroke-dashoffset: -32 } }
+      @keyframes blink { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <circle class="pulse" cx="1010" cy="70" r="230" fill="url(#glowA)"/>
+    <circle class="pulse2" cx="830" cy="300" r="200" fill="url(#glowB)"/>
+
+    <!-- platform graph: console -> gateway / rag / agent -> mcp / providers -->
+    <g fill="none" stroke="url(#edge)" stroke-width="2" stroke-opacity="0.7">
+      <path class="flow" d="M890 165 L990 95"/>
+      <path class="flow" d="M890 165 L990 165"/>
+      <path class="flow" d="M890 165 L990 235"/>
+      <path class="flow" d="M1010 95 L1110 130"/>
+      <path class="flow" d="M1010 165 L1110 130"/>
+      <path class="flow" d="M1010 235 L1110 200"/>
+      <path class="flow" d="M1010 165 L1110 200"/>
+    </g>
+    <g class="t" font-size="12" font-weight="700" text-anchor="middle">
+      <circle cx="880" cy="165" r="30" fill="#141c40" stroke="#00d1ff" stroke-width="2"/>
+      <text x="880" y="169" fill="#bfefff">console</text>
+      <circle cx="1000" cy="95" r="27" fill="#141c40" stroke="#7c5cff" stroke-width="2"/>
+      <text x="1000" y="99" fill="#d9d0ff">gateway</text>
+      <circle cx="1000" cy="165" r="27" fill="#141c40" stroke="#7c5cff" stroke-width="2"/>
+      <text x="1000" y="169" fill="#d9d0ff">agent</text>
+      <circle cx="1000" cy="235" r="27" fill="#141c40" stroke="#7c5cff" stroke-width="2"/>
+      <text x="1000" y="239" fill="#d9d0ff">RAG</text>
+      <circle cx="1120" cy="130" r="25" fill="#141c40" stroke="#00d1ff" stroke-width="2"/>
+      <text x="1120" y="134" fill="#bfefff">LLMs</text>
+      <circle cx="1120" cy="200" r="25" fill="#141c40" stroke="#00d1ff" stroke-width="2"/>
+      <text x="1120" y="204" fill="#bfefff">MCP</text>
+    </g>
+
+    <g class="t">
+      <circle class="blink" cx="66" cy="62" r="6" fill="#3ee08f"/>
+      <text x="82" y="67" fill="#9ff0c6" font-size="15" font-weight="600" letter-spacing="1.5">OPEN TO WORK · REMOTE / HYBRID</text>
+
+      <text x="60" y="140" fill="url(#title)" font-size="66" font-weight="800" letter-spacing="-1">Anton Zhuravlev</text>
+      <text x="62" y="180" fill="#9fb0ff" font-size="22" font-weight="500">Антон Журавлёв  ·  @INTERpol21</text>
+      <text x="62" y="222" fill="#eef1ff" font-size="24" font-weight="600">Senior Fullstack / Backend Engineer  ·  Tech Lead  ·  AI / LLM platforms</text>
+    </g>
+
+    <g class="t">
+      <rect class="chip" x="60" y="252" width="158" height="36" rx="18"/>
+      <text class="chiptext" x="139" y="276" text-anchor="middle">Node.js · NestJS</text>
+      <rect class="chip" x="228" y="252" width="168" height="36" rx="18"/>
+      <text class="chiptext" x="312" y="276" text-anchor="middle">Python · FastAPI</text>
+      <rect class="chip" x="406" y="252" width="190" height="36" rx="18"/>
+      <text class="chiptext" x="501" y="276" text-anchor="middle">React · Vue · Next</text>
+      <rect class="chip" x="606" y="252" width="200" height="36" rx="18"/>
+      <text class="chiptext" x="706" y="276" text-anchor="middle">LLM · RAG · Agents</text>
+    </g>
+  </g>
+</svg>
