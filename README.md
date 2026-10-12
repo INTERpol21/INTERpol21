@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8F7BFF&center=true&vCenter=true&width=820&height=44&lines=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BB%20AI-%D1%8F%D0%B4%D1%80%D0%BE%20%D0%B4%D0%BB%D1%8F%2012%2B%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%20ERA2;LLM%20gateway%20%C2%B7%20RAG%20%D0%BD%D0%B0%20pgvector%20%C2%B7%20LangGraph%20%C2%B7%20MCP;Tech%20Lead%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%208%3A%20%D0%BD%D0%B0%D0%B9%D0%BC%2C%20%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%2C%201%3A1;%D0%9F%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8%2C%20highload%2C%20realtime%20%E2%80%94%20%D0%B8%D0%B4%D0%B5%D0%BC%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D0%BE" alt="Собрал AI-ядро для 12+ продуктов ERA2 · LLM gateway, RAG, агенты, MCP · Tech Lead команды 8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8F7BFF&center=true&vCenter=true&width=820&height=44&lines=%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BB%20AI-%D1%8F%D0%B4%D1%80%D0%BE%20%D0%B4%D0%BB%D1%8F%2031%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%20ERA2%20%C2%B7%20500K%2B%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9;LLM%20gateway%20%C2%B7%20RAG%20%D0%BD%D0%B0%20pgvector%20%C2%B7%20LangGraph%20%C2%B7%20MCP;Tech%20Lead%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%208%3A%20%D0%BD%D0%B0%D0%B9%D0%BC%2C%20%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%2C%201%3A1;%D0%9F%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8%2C%20highload%2C%20realtime%20%E2%80%94%20%D0%B8%D0%B4%D0%B5%D0%BC%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D0%BE" alt="Собрал AI-ядро для 31 продукта ERA2 · LLM gateway, RAG, агенты, MCP · Tech Lead команды 8"/>
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/metrics.svg" width="100%" alt="7+ лет в разработке · 12+ AI-продуктов на одном ядре · 151+ нейросеть на одном шлюзе · 2M+ пользователей Web3-платформы · команда 8 · 95%+ успешных платежей"/>
+  <img src="assets/metrics.svg" width="100%" alt="7+ лет в разработке · 31 AI-продукт на одном ядре · 151+ нейросеть на одном шлюзе · 2M+ пользователей Web3-платформы · команда 8 · 95%+ успешных платежей"/>
 </p>
 
-Senior Fullstack / Backend и Tech Lead, 7+ лет. Делаю продукты end-to-end — от схемы БД и очередей до интерфейса и релиза — и веду команды. Последние два года: высоконагруженная iGaming-платформа на 170+ инженеров и AI-направление ERA2, где я собрал платформенное ядро для 12+ AI-продуктов и вырос до Tech Lead команды из 8.
+Senior Fullstack / Backend и Tech Lead, 7+ лет. Делаю продукты end-to-end — от схемы БД и очередей до интерфейса и релиза — и веду команды. Последние два года: высоконагруженная iGaming-платформа на 170+ инженеров и AI-направление ERA2, где я собрал платформенное ядро для 31 AI-продукта с 500K+ пользователей и вырос до Tech Lead команды из 8.
 
 ## ⚡ AI-ядро
 
-В ERA2 на одном ядре работают 12+ продуктов: единый шлюз, на котором сейчас работает 151+ нейросеть от 15+ провайдеров, асинхронная очередь генераций, RAG на pgvector и общий кредитный биллинг. Новый продукт подключается конфигом, а не форком сервиса. **LLM-платформа ниже — те же архитектурные идеи в открытом коде**: пять сервисов, которые вместе дают исследовательского агента с честными цитатами и полным учётом расхода. Поднимается одной командой и работает офлайн на детерминированном мок-провайдере.
+В ERA2 на одном ядре сейчас работает 31 продукт и 500K+ пользователей: единый шлюз, на котором сейчас работает 151+ нейросеть от 15+ провайдеров, асинхронная очередь генераций, RAG на pgvector и общий кредитный биллинг. Новый продукт подключается конфигом, а не форком сервиса. **LLM-платформа ниже — те же архитектурные идеи в открытом коде**: пять сервисов, которые вместе дают исследовательского агента с честными цитатами и полным учётом расхода. Поднимается одной командой и работает офлайн на детерминированном мок-провайдере.
 
 ```mermaid
 flowchart LR
@@ -44,18 +44,21 @@ flowchart LR
 
 ## 🚀 Продукты
 
-20+ продуктов за 7 лет — от AI-экосистемы и Web3 до платежей, PropTech и e-commerce. 🟢 — работает сейчас, 🗄 — продукт закрыт, ссылка ведёт на снимок в Web Archive.
+45+ продуктов за 7 лет — от AI-экосистемы и Web3 до платежей, PropTech и e-commerce. 🟢 — работает сейчас, 🗄 — продукт закрыт, ссылка ведёт на снимок в Web Archive.
 
 <table>
 <tr><th align="left">Продукт</th><th align="left">Что это и что делал я</th><th align="left">Стек</th><th align="left">Ссылка</th></tr>
 
 <tr><td colspan="4"><b>Volta Tech · ERA2</b> — 2025–2026</td></tr>
-<tr><td><b>ERA2</b></td><td>Экосистема 12+ AI-продуктов на одном ядре — собрал ядро: шлюз, на котором сейчас работает 151+ нейросеть, очередь генераций, RAG, кредитный биллинг; Tech Lead команды 8</td><td>Python · FastAPI · Celery · pgvector · Vue 3</td><td>🟢 <a href="https://era2.ai">era2.ai</a></td></tr>
-<tr><td><b>NeyroHub</b></td><td>Агрегатор 151+ нейросетей: текст, изображения, видео — на общем шлюзе и биллинге</td><td>FastAPI · PostgreSQL · Redis</td><td>🟢 <a href="https://neyrohub.io">neyrohub.io</a></td></tr>
-<tr><td><b>+Вайб</b></td><td>ИИ-фотостудия: нейрофотосессия по фото, 6000+ образов</td><td>FastAPI · Celery · очереди генераций</td><td>🟢 <a href="https://vibeplus.ai">vibeplus.ai</a></td></tr>
-<tr><td><b>iVox Studio</b></td><td>AI-озвучка и клон голоса: 200+ голосов, 70+ языков, словарь ударений из общего RAG</td><td>TTS · FastAPI · RAG</td><td>🟢 <a href="https://voice.era2.ai">voice.era2.ai</a></td></tr>
-<tr><td><b>Music Era2</b></td><td>Генерация песен и музыки</td><td>FastAPI · очереди генераций</td><td>🟢 <a href="https://music.era2.ai">music.era2.ai</a></td></tr>
-<tr><td><b>Telegram-линейка ERA2</b></td><td>FOX AI (видео-модели Veo, Sora, Kling, Runway, Luma, Pika), AI BERRY (карточки для Wildberries и Ozon), ПесняAI, БананоГен, MagiaPic, Wow Frame, Click-Click, Trend Video AI — все на том же ядре</td><td>Telegram Bot API · FastAPI</td><td>🟢 Telegram</td></tr>
+<tr><td><b>ERA2</b></td><td>Головной продукт: агрегатор 151+ нейросетей по подписке. Экосистема — 31 AI-продукт и 500K+ пользователей на одном ядре, которое я собрал: шлюз, очередь генераций, RAG, кредитный биллинг; Tech Lead команды 8</td><td>Python · FastAPI · Celery · pgvector · Vue 3</td><td>🟢 <a href="https://era2.ai">era2.ai</a></td></tr>
+<tr><td><b>+Вайб</b></td><td>Фотосессии, видео, озвучка и ИИ-чат — <b>500K пользователей</b>, 6000+ образов</td><td>FastAPI · Celery · очереди генераций</td><td>🟢 <a href="https://vibeplus.ai">vibeplus.ai</a></td></tr>
+<tr><td><b>БананоГен</b></td><td>Картинки и видео в Telegram на Nano Banana и Veo — <b>81K пользователей</b></td><td>Telegram Bot API · FastAPI</td><td>🟢 <a href="https://t.me/Bananogenbot">@Bananogenbot</a></td></tr>
+<tr><td><b>NeyroHub</b></td><td>ИИ-чат, картинки и видео в одном тарифе — на общем шлюзе и биллинге</td><td>FastAPI · PostgreSQL · Redis</td><td>🟢 <a href="https://neyrohub.io">neyrohub.io</a></td></tr>
+<tr><td><b>iVox Studio</b></td><td>Озвучка текста 200+ голосами на 70+ языках, клон голоса, словарь ударений из общего RAG</td><td>TTS · FastAPI · RAG</td><td>🟢 <a href="https://ivoxstudio.ru">ivoxstudio.ru</a></td></tr>
+<tr><td><b>ERA2 Music</b></td><td>Генерация песен на русском: текст, музыка и вокал за минуту</td><td>FastAPI · очереди генераций</td><td>🟢 <a href="https://music.era2.ai">music.era2.ai</a></td></tr>
+<tr><td><b>ERA2 Card</b></td><td>Карточки товаров для Wildberries и Ozon: изображения и тексты под требования маркетплейсов</td><td>FastAPI · генерация изображений</td><td>🟢 <a href="https://card.era2.ai">card.era2.ai</a></td></tr>
+<tr><td><b>ПесняAI</b></td><td>Музыка по описанию в Telegram — <b>30K пользователей</b></td><td>Telegram Bot API · FastAPI</td><td>🟢 <a href="https://t.me/pesnyaAibot">@pesnyaAibot</a></td></tr>
+<tr><td><b>+23 продукта</b></td><td>ERA2 Voice, FOX AI (Veo, Sora, Kling, Runway, Luma, Pika), MATRIKA, Ракурс, Сурок, Нейровед, НайдИИ, Look-Book, MagiaPic, Wow Frame, Click-Click, AI BERRY, Моя Эра, Тренд видео, Живое фото и линейка в мессенджере MAX — все на том же ядре</td><td>Web · Telegram · MAX</td><td>🟢 <a href="https://partner.era2.ai">витрина всех 31</a></td></tr>
 <tr><td><b>iGaming-платформа Volta</b></td><td>4 000+ игр от 50+ провайдеров, платежи, бонусы, турниры, сотни тысяч пользователей — Team Lead Frontend трёх команд, админка и бэк-офис</td><td>Vue 3 · Nuxt 3 · NestJS · Laravel · Kafka · ClickHouse</td><td>—</td></tr>
 
 <tr><td colspan="4"><b>Competent IT</b> — 2024–2025</td></tr>
@@ -85,7 +88,7 @@ flowchart LR
 ## 🧭 Опыт
 
 **Volta Tech · ERA2** — Senior Fullstack → Team Lead → Tech Lead команды 8 · *июль 2025 — июнь 2026*
-- Собрал платформенное ядро для 12+ AI-продуктов: gateway на FastAPI — шлюз, на котором сейчас работает 151+ нейросеть (роутинг, structured output, tool calling, MCP, фолбэки — неуспешных генераций меньше 1%), асинхронный слой на Celery и Redis/RabbitMQ — отклик API быстрее в 3–4 раза.
+- Собрал платформенное ядро, на котором сейчас работает 31 AI-продукт и 500K+ пользователей: gateway на FastAPI — шлюз, на котором сейчас работает 151+ нейросеть (роутинг, structured output, tool calling, MCP, фолбэки — неуспешных генераций меньше 1%), асинхронный слой на Celery и Redis/RabbitMQ — отклик API быстрее в 3–4 раза.
 - RAG на PostgreSQL + pgvector: HNSW, гибридный поиск с реранкером, evals LLM-as-a-judge — ~120 тыс. чанков, p95 retrieval ~120 мс, точность на эталонном наборе с ~70% до ~90%.
 - Кредитный биллинг на 90+ тарифов с ЮKassa и СБП: леджер на PostgreSQL с row-level locking и идемпотентностью, 95%+ успешных транзакций.
 - iGaming-платформа: 4 000+ игр от 50+ провайдеров, интеграции с 10+ микросервисами, шина RabbitMQ/Kafka, Redis-кеш — ключевые экраны быстрее на 30–40%; миграция Vue 2 → 3, Playwright + Allure на 100+ сценариев.
