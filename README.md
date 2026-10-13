@@ -87,7 +87,7 @@ flowchart LR
 
 <tr><td colspan="4"><b>Asmart-group</b> — 2019–2020</td></tr>
 <tr><td><b>Zoloto55</b></td><td>Ювелирный интернет-магазин: каталог, фильтры, загрузка до 1,8 с</td><td>Vue 2 · SCSS</td><td>🟢 <a href="https://zoloto55.ru">zoloto55.ru</a></td></tr>
-<tr><td><b>GotoOmsk</b></td><td>Портал Туристского информационного центра Омской области</td><td>Vue 2 · REST</td><td>🗄 <a href="https://web.archive.org/web/20260613/https://gotoomsk.ru/">gotoomsk.ru</a></td></tr>
+<tr><td><b>GotoOmsk · Visit Omsk</b></td><td>Портал Туристского информационного центра Омской области: экскурсии, маршруты, событийный календарь, где остановиться</td><td>Vue 2 · REST</td><td>🟢 <a href="https://gotoomsk.ru/">gotoomsk.ru</a></td></tr>
 </table>
 
 ## 🖼 Галерея продуктов
@@ -137,7 +137,7 @@ flowchart LR
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://zoloto55.ru"><img src="assets/products/19-zoloto55.jpg" width="100%" alt="Zoloto55 — ювелирный интернет-магазин (Asmart-group)"/></a><br/><b>Zoloto55</b> — ювелирный интернет-магазин (Asmart-group) · <a href="https://zoloto55.ru">zoloto55.ru</a><br/><sub>Каталог, фильтры, карточки товаров; загрузка до 1,8 с</sub></td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top"><a href="https://gotoomsk.ru/"><img src="assets/products/20-gotoomsk.jpg" width="100%" alt="Visit Omsk — туристский портал Омской области"/></a><br/><b>GotoOmsk · Visit Omsk</b> — туристский портал Омской области · <a href="https://gotoomsk.ru/">gotoomsk.ru</a><br/><sub>Asmart-group: новые разделы, фильтры и сортировка событий, mobile-first, формы обратной связи</sub></td>
 </tr>
 </table>
 
