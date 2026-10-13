@@ -80,7 +80,7 @@
       .blink { animation: blink 2.6s ease-in-out infinite; }
       @keyframes blink { 0%,100% { opacity: .3 } 50% { opacity: 1 } }
       .ty { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif; font-size: 13px; font-weight: 700; text-anchor: middle; letter-spacing: 1px; }
-      .tr { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #eef1ff; text-anchor: middle; }
+      .tr { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #eef1ff; text-anchor: middle; }
       .trl { fill: #9ff0c6; }
       .tw { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif; font-size: 12px; fill: #8d99c9; text-anchor: middle; }
       .ping { animation: ping 2.4s ease-out infinite; transform-box: fill-box; transform-origin: center; }
@@ -157,7 +157,7 @@
     <!-- identity -->
     <g class="t">
       <g>
-        <rect x="56" y="44" width="300" height="30" rx="15" fill="#3ee08f" fill-opacity="0.08" stroke="#3ee08f" stroke-opacity="0.45"/>
+        <rect x="56" y="44" width="372" height="30" rx="15" fill="#3ee08f" fill-opacity="0.08" stroke="#3ee08f" stroke-opacity="0.45"/>
         <circle class="blink" cx="76" cy="59" r="5.5" fill="#3ee08f"/>
         <text x="90" y="64" fill="#9ff0c6" font-size="13.5" font-weight="700" letter-spacing="1.6">OPEN TO WORK · REMOTE / HYBRID</text>
       </g>
@@ -167,20 +167,20 @@
       </g>
       <text x="58" y="190" fill="#9fb0ff" font-size="21" font-weight="500">Антон Журавлёв  ·  @INTERpol21</text>
       <text x="58" y="232" fill="#f2f4ff" font-size="25" font-weight="700">Senior Fullstack / Backend Engineer  ·  Tech Lead</text>
-      <text x="58" y="266" fill="#b7c2f0" font-size="17" font-weight="500">AI / LLM-платформы · платежи · highload · найм и рост команды до 8</text>
+      <text x="58" y="266" fill="#b7c2f0" font-size="17" font-weight="500">iGaming · AI / LLM-платформы · платежи · highload</text>
       <g><rect class="chip" x="60" y="300" width="152" height="34" rx="17"/><text class="chiptext" x="136" y="322" text-anchor="middle">Node.js · NestJS</text><rect class="chip" x="221.6" y="300" width="152" height="34" rx="17"/><text class="chiptext" x="297" y="322" text-anchor="middle">Python · FastAPI</text><rect class="chip" x="383.2" y="300" width="167" height="34" rx="17"/><text class="chiptext" x="467" y="322" text-anchor="middle">React · Vue · Next</text><rect class="chip" x="560.0" y="300" width="167" height="34" rx="17"/><text class="chiptext" x="643" y="322" text-anchor="middle">LLM · RAG · Agents</text></g>
     </g>
 
     <!-- career trajectory -->
     <g>
       <text class="t" x="56" y="384" fill="#7f8bbd" font-size="12" font-weight="700" letter-spacing="2">ТРАЕКТОРИЯ</text>
-      <line x1="95" y1="440" x2="1105" y2="440" stroke="url(#line)" stroke-width="2"/>
-      <line class="flow" x1="95" y1="440" x2="1105" y2="440" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2"/>
+      <line x1="80" y1="440" x2="1120" y2="440" stroke="url(#line)" stroke-width="2"/>
+      <line class="flow" x1="80" y1="440" x2="1120" y2="440" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2"/>
       <circle r="4" fill="#ffffff">
-        <animateMotion dur="6s" repeatCount="indefinite" path="M95 440 H1105"/>
+        <animateMotion dur="6s" repeatCount="indefinite" path="M80 440 H1120"/>
         <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="6s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="95" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="95" y="424" class="ty" fill="#8fa2ff">2019</text><text x="95" y="466" class="tr">Frontend</text><text x="95" y="484" class="tw">Asmart-group</text><circle cx="297" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="297" y="424" class="ty" fill="#8fa2ff">2020</text><text x="297" y="466" class="tr">Fullstack</text><text x="297" y="484" class="tw">соло-продукты: CRM, доставка</text><circle cx="499" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="499" y="424" class="ty" fill="#8fa2ff">2021</text><text x="499" y="466" class="tr">Fullstack · Python + Vue</text><text x="499" y="484" class="tw">Routeam</text><circle cx="701" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="701" y="424" class="ty" fill="#8fa2ff">2022</text><text x="701" y="466" class="tr">Техрук направления</text><text x="701" y="484" class="tw">PR-группа Буржуй</text><circle cx="903" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="903" y="424" class="ty" fill="#8fa2ff">2024</text><text x="903" y="466" class="tr">Team Lead</text><text x="903" y="484" class="tw">Competent IT</text><circle class="ping" cx="1105" cy="440" r="9" fill="none" stroke="#3ee08f" stroke-width="2"/><circle cx="1105" cy="440" r="6" fill="#0b1026" stroke="#3ee08f" stroke-width="2.2"/><text x="1105" y="424" class="ty" fill="#3ee08f">2025</text><text x="1105" y="466" class="tr trl">Tech Lead ERA2</text><text x="1105" y="484" class="tw">Volta Tech · команда 8</text>
+      <circle cx="80" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="80" y="424" class="ty" fill="#8fa2ff">2019</text><text x="80" y="466" class="tr">Frontend</text><text x="80" y="484" class="tw">Asmart-group</text><circle cx="253" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="253" y="424" class="ty" fill="#8fa2ff">2020</text><text x="253" y="466" class="tr">Fullstack</text><text x="253" y="484" class="tw">Upravhouse</text><circle cx="427" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="427" y="424" class="ty" fill="#8fa2ff">2021</text><text x="427" y="466" class="tr">Fullstack</text><text x="427" y="484" class="tw">Routeam</text><circle cx="600" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="600" y="424" class="ty" fill="#8fa2ff">2022</text><text x="600" y="466" class="tr">Senior Fullstack · Team Lead</text><text x="600" y="484" class="tw">PR-группа Буржуй</text><circle cx="773" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="773" y="424" class="ty" fill="#8fa2ff">2024</text><text x="773" y="466" class="tr">Team Lead</text><text x="773" y="484" class="tw">Competent IT</text><circle cx="947" cy="440" r="4.5" fill="#0b1026" stroke="#8fa2ff" stroke-width="2.2"/><text x="947" y="424" class="ty" fill="#8fa2ff">2025</text><text x="947" y="466" class="tr">Senior Fullstack</text><text x="947" y="484" class="tw">Volta Tech · iGaming</text><circle class="ping" cx="1120" cy="440" r="9" fill="none" stroke="#3ee08f" stroke-width="2"/><circle cx="1120" cy="440" r="6" fill="#0b1026" stroke="#3ee08f" stroke-width="2.2"/><text x="1120" y="424" class="ty" fill="#3ee08f">2026</text><text x="1120" y="466" class="tr trl">Tech Lead ERA2</text><text x="1120" y="484" class="tw">Volta Tech · команда 8</text>
     </g>
     <rect x="0.5" y="0.5" width="1199" height="519" rx="20" fill="none" stroke="#8fa2ff" stroke-opacity="0.18"/>
   </g>
