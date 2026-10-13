@@ -61,9 +61,9 @@ flowchart LR
 <tr><td><b>+23 продукта</b></td><td>ERA2 Voice, FOX AI (Veo, Sora, Kling, Runway, Luma, Pika), MATRIKA, Ракурс, Сурок, Нейровед, НайдИИ, Look-Book, MagiaPic, Wow Frame, Click-Click, AI BERRY, Моя Эра, Тренд видео, Живое фото и линейка в мессенджере MAX — все на том же ядре</td><td>Web · Telegram · MAX</td><td>🟢 <a href="https://partner.era2.ai">витрина всех 31</a></td></tr>
 <tr><td><b>iGaming-платформа Volta</b></td><td>4 000+ игр от 50+ провайдеров, платежи, бонусы, турниры, сотни тысяч пользователей — Team Lead Frontend трёх команд, админка и бэк-офис</td><td>Vue 3 · Nuxt 3 · NestJS · Laravel · Kafka · ClickHouse</td><td>—</td></tr>
 
-<tr><td colspan="4"><b>iGaming: кейсы CS2</b> — 2025–2026</td></tr>
+<tr><td colspan="4"><b>iGaming</b> — 2025–2026</td></tr>
 <tr><td><b>Skinopolis</b></td><td>Платформа открытия кейсов CS2, основной разработчик бэкенда (~1 900 коммитов): кейсы, апгрейд, контракты, джекпот, бесплатные кейсы, вывод скинов в Steam, платежи и партнёрская программа, стейкинг, розыгрыши, уровни и достижения; real-time на Socket.IO с Redis-адаптером, очереди BullMQ, контроль RTP; защита — ModSecurity + OWASP CRS, CrowdSec, rate-limit</td><td>NestJS 11 · Prisma · PostgreSQL · Redis · BullMQ · Socket.IO</td><td>🟢 <a href="https://skinopolis.net/ru">skinopolis.net</a></td></tr>
-<tr><td><b>Champions Loot</b></td><td>Платформа открытия кейсов для зарубежного рынка</td><td>—</td><td>🟢 <a href="https://championsloot.cc/">championsloot.cc</a></td></tr>
+<tr><td><b>Champion Slots</b></td><td>Онлайн-казино: слоты и live-казино по провайдерам, спорт и киберспорт, турниры, бонусы, программа лояльности, лотереи</td><td>—</td><td>🟢 <a href="https://championsloot.cc/">championsloot.cc</a></td></tr>
 
 <tr><td colspan="4"><b>Competent IT</b> — 2024–2025</td></tr>
 <tr><td><b>Meta Force Space</b></td><td>Сложный технический продукт: международная Web3-платформа и метавселенная на Polygon, 2M+ пользователей. Токен расчётов Forcecoin (MFS), ядро метавселенной Uniteverse, некастодиальный Force Wallet и маркетплейс, NFT Goods (виртуальный предмет, физический товар или стейкинг), кешбэк-программа Tactile, академия, W-DEX swap — fullstack-архитектура, MVP за 4 месяца</td><td>React 18 · Vue 3 · NestJS · ethers.js · Kubernetes</td><td>🗄 <a href="https://web.archive.org/web/20250121/https://meta-force.space/">meta-force.space</a></td></tr>
@@ -117,23 +117,27 @@ flowchart LR
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://skinopolis.net/ru"><img src="assets/products/23-skinopolis.jpg" width="100%" alt="Skinopolis — кейсы CS2"/></a><br/><b>Skinopolis</b> — платформа кейсов CS2 · <a href="https://skinopolis.net/ru">skinopolis.net</a><br/><sub>Бэкенд на NestJS 11: кейсы, апгрейд, контракты, вывод в Steam, real-time на Socket.IO, очереди BullMQ</sub></td>
+<td width="50%" valign="top"><a href="https://championsloot.cc/"><img src="assets/products/24-championsloot.jpg" width="100%" alt="Champion Slots — онлайн-казино"/></a><br/><b>Champion Slots</b> — онлайн-казино · <a href="https://championsloot.cc/">championsloot.cc</a><br/><sub>Слоты и live-казино по провайдерам, спорт, турниры, бонусы, программа лояльности</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://web.archive.org/web/20250121/https://meta-force.space/"><img src="assets/products/12-meta-force-space.jpg" width="100%" alt="Meta Force Space — Web3-платформа и метавселенная · 2M+"/></a><br/><b>Meta Force Space</b> — Web3-платформа и метавселенная · 2M+ · <a href="https://web.archive.org/web/20250121/https://meta-force.space/">meta-force.space</a><br/><sub>Обложка проекта, платформа закрыта. Forcecoin, Uniteverse, Force Wallet, маркетплейс, NFT Goods; fullstack, MVP за 4 месяца</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://kefirium.ru"><img src="assets/products/11-kefirium.jpg" width="100%" alt="Kefirium — первый рублёвый NFT-маркетплейс"/></a><br/><b>Kefirium</b> — первый рублёвый NFT-маркетплейс · <a href="https://kefirium.ru">kefirium.ru</a><br/><sub>Nuxt SSR/PWA, Node.js, смарт-контракты, live-дропы</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://uacrussia.ru/ru/"><img src="assets/products/21-uac.jpg" width="100%" alt="ОАК — Объединённая авиастроительная корпорация"/></a><br/><b>ОАК</b> — Объединённая авиастроительная корпорация · <a href="https://uacrussia.ru/ru/">uacrussia.ru</a><br/><sub>Корпоративный сайт: модельный ряд, пресс-центр, раздел для инвесторов (1С-Битрикс)</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://car-city.pro"><img src="assets/products/15-car-city.jpg" width="100%" alt="Car-City — аренда авто для такси"/></a><br/><b>Car-City</b> — аренда авто для такси · <a href="https://car-city.pro">car-city.pro</a><br/><sub>Каталог, калькуляторы стоимости, онлайн-заявки</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://noglasses.ru"><img src="assets/products/14-noglasses.jpg" width="100%" alt="Noglasses — сайт офтальмологической клиники"/></a><br/><b>Noglasses</b> — сайт офтальмологической клиники · <a href="https://noglasses.ru">noglasses.ru</a><br/><sub>Запись на приём, отзывы ПроДокторов, админка</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://web.archive.org/web/20260113/https://gastrotula.ru/"><img src="assets/products/16-gastrotula.jpg" width="100%" alt="GastroTula — гастропутеводитель · архив 01.2026"/></a><br/><b>GastroTula</b> — гастропутеводитель · архив 01.2026 · <a href="https://web.archive.org/web/20260113/https://gastrotula.ru/">gastrotula.ru</a><br/><sub>Интерактивная карта маршрутов и e-commerce</sub></td>
-<td width="50%" valign="top"><a href="https://routeam.ru/cases/bronev-bus-platform/"><img src="assets/products/22-routeam-bronev.jpg" width="100%" alt="Бронев (Routeam) — продажа автобусных билетов и рейсы"/></a><br/><b>Бронев (Routeam)</b> — продажа автобусных билетов и рейсы · <a href="https://routeam.ru/cases/bronev-bus-platform/">кейс Routeam</a><br/><sub>Кабинет перевозчика, места кассира и агента на Vue 2, 9 ролей на SSO, 11 отчётных форм</sub></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://routeam.ru/cases/bronev-bus-platform/"><img src="assets/products/22-routeam-bronev.jpg" width="100%" alt="Бронев (Routeam) — продажа автобусных билетов и рейсы"/></a><br/><b>Бронев (Routeam)</b> — продажа автобусных билетов и рейсы · <a href="https://routeam.ru/cases/bronev-bus-platform/">кейс Routeam</a><br/><sub>Кабинет перевозчика, места кассира и агента на Vue 2, 9 ролей на SSO, 11 отчётных форм</sub></td>
 <td width="50%" valign="top"><a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/"><img src="assets/products/18-leverans.jpg" width="100%" alt="Leverans — доставка еды с CRM · архив 04.2026"/></a><br/><b>Leverans</b> — доставка еды с CRM · архив 04.2026 · <a href="https://web.archive.org/web/20260419/https://omsk.leverans.ru/">omsk.leverans.ru</a><br/><sub>Соло от схемы БД до деплоя: каталог, заказы, CRM операторов</sub></td>
+</tr>
+<tr>
 <td width="50%" valign="top"><a href="https://zoloto55.ru"><img src="assets/products/19-zoloto55.jpg" width="100%" alt="Zoloto55 — ювелирный интернет-магазин (Asmart-group)"/></a><br/><b>Zoloto55</b> — ювелирный интернет-магазин (Asmart-group) · <a href="https://zoloto55.ru">zoloto55.ru</a><br/><sub>Каталог, фильтры, карточки товаров; загрузка до 1,8 с</sub></td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
