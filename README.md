@@ -59,11 +59,10 @@ flowchart LR
 <tr><td><b>ERA2 Card</b></td><td>Карточки товаров для Wildberries и Ozon: изображения и тексты под требования маркетплейсов</td><td>FastAPI · генерация изображений</td><td>🟢 <a href="https://card.era2.ai">card.era2.ai</a></td></tr>
 <tr><td><b>ПесняAI</b></td><td>Музыка по описанию в Telegram — <b>30K пользователей</b></td><td>Telegram Bot API · FastAPI</td><td>🟢 <a href="https://t.me/pesnyaAibot">@pesnyaAibot</a></td></tr>
 <tr><td><b>+23 продукта</b></td><td>ERA2 Voice, FOX AI (Veo, Sora, Kling, Runway, Luma, Pika), MATRIKA, Ракурс, Сурок, Нейровед, НайдИИ, Look-Book, MagiaPic, Wow Frame, Click-Click, AI BERRY, Моя Эра, Тренд видео, Живое фото и линейка в мессенджере MAX — все на том же ядре</td><td>Web · Telegram · MAX</td><td>🟢 <a href="https://partner.era2.ai">витрина всех 31</a></td></tr>
-<tr><td><b>iGaming-платформа Volta</b></td><td>4 000+ игр от 50+ провайдеров, платежи, бонусы, турниры, сотни тысяч пользователей — Team Lead Frontend трёх команд, админка и бэк-офис</td><td>Vue 3 · Nuxt 3 · NestJS · Laravel · Kafka · ClickHouse</td><td>—</td></tr>
+<tr><td><b>iGaming-платформа Volta</b><br/><sub>бренд Champion Slots</sub></td><td>4 000+ игр от 50+ провайдеров, платежи, бонусы, турниры, сотни тысяч пользователей — Team Lead Frontend трёх команд, админка и бэк-офис</td><td>Vue 3 · Nuxt 3 · NestJS · Laravel · Kafka · ClickHouse</td><td>🟢 <a href="https://championsloot.cc/">championsloot.cc</a></td></tr>
 
-<tr><td colspan="4"><b>iGaming</b> — 2025–2026</td></tr>
+<tr><td colspan="4"><b>Skinopolis</b> — проект параллельно с Volta, 2025–2026</td></tr>
 <tr><td><b>Skinopolis</b></td><td>Платформа открытия кейсов CS2, основной разработчик бэкенда (~1 000 коммитов): кейсы, апгрейд, контракты, джекпот, бесплатные кейсы, вывод скинов в Steam, платежи и партнёрская программа, стейкинг, розыгрыши, уровни и достижения; real-time на Socket.IO с Redis-адаптером, очередь BullMQ, контроль RTP; защита — ModSecurity + OWASP CRS, CrowdSec, rate-limit</td><td>NestJS 11 · Prisma · PostgreSQL · Redis · BullMQ · Socket.IO</td><td>🟢 <a href="https://skinopolis.net/ru">skinopolis.net</a></td></tr>
-<tr><td><b>Champion Slots</b></td><td>Онлайн-казино: слоты и live-казино по провайдерам, спорт и киберспорт, турниры, бонусы, программа лояльности, лотереи</td><td>—</td><td>🟢 <a href="https://championsloot.cc/">championsloot.cc</a></td></tr>
 
 <tr><td colspan="4"><b>Competent IT</b> — 2024–2025</td></tr>
 <tr><td><b>Meta Force Space</b></td><td>Сложный технический продукт: международная Web3-платформа и метавселенная на Polygon, 2M+ пользователей. Токен расчётов Forcecoin (MFS), ядро метавселенной Uniteverse, некастодиальный Force Wallet и маркетплейс, NFT Goods (виртуальный предмет, физический товар или стейкинг), кешбэк-программа Tactile, академия, W-DEX swap — fullstack-архитектура, MVP за 4 месяца</td><td>React 18 · Vue 3 · NestJS · ethers.js · Kubernetes</td><td>🗄 <a href="https://web.archive.org/web/20241224105338/https://meta-force.space/">meta-force.space</a></td></tr>
@@ -116,8 +115,8 @@ flowchart LR
 <td width="50%" valign="top"><a href="https://t.me/pesnyaAibot"><img src="assets/products/09-pesnya-ai.jpg" width="100%" alt="ПесняAI — музыка в Telegram · 30K"/></a><br/><b>ПесняAI</b> — музыка в Telegram · 30K · <a href="https://t.me/pesnyaAibot">@pesnyaAibot</a><br/><sub>Песня по описанию прямо в Telegram</sub></td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://championsloot.cc/"><img src="assets/products/24-championsloot.jpg" width="100%" alt="Champion Slots — iGaming-платформа Volta Tech"/></a><br/><b>Champion Slots</b> — iGaming-платформа Volta Tech · <a href="https://championsloot.cc/">championsloot.cc</a><br/><sub>Team Lead Frontend трёх команд: каталог 4 000+ игр от 50+ провайдеров, платежи, бонусы, турниры; Vue 3 / Nuxt 3, админка и бэк-офис</sub></td>
 <td width="50%" valign="top"><a href="https://skinopolis.net/ru"><img src="assets/products/23-skinopolis.jpg" width="100%" alt="Skinopolis — кейсы CS2"/></a><br/><b>Skinopolis</b> — платформа кейсов CS2 · <a href="https://skinopolis.net/ru">skinopolis.net</a><br/><sub>Бэкенд на NestJS 11: кейсы, апгрейд, контракты, вывод в Steam, real-time на Socket.IO, очередь BullMQ</sub></td>
-<td width="50%" valign="top"><a href="https://championsloot.cc/"><img src="assets/products/24-championsloot.jpg" width="100%" alt="Champion Slots — онлайн-казино"/></a><br/><b>Champion Slots</b> — онлайн-казино · <a href="https://championsloot.cc/">championsloot.cc</a><br/><sub>Слоты и live-казино по провайдерам, спорт, турниры, бонусы, программа лояльности</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://web.archive.org/web/20241224105338/https://meta-force.space/"><img src="assets/products/12-meta-force-space.jpg" width="100%" alt="Meta Force Space — Web3-платформа и метавселенная · 2M+"/></a><br/><b>Meta Force Space</b> — Web3-платформа и метавселенная · 2M+ · <a href="https://web.archive.org/web/20241224105338/https://meta-force.space/">meta-force.space</a><br/><sub>Обложка проекта, платформа закрыта. Forcecoin, Uniteverse, Force Wallet, маркетплейс, NFT Goods; fullstack, MVP за 4 месяца</sub></td>
@@ -147,7 +146,7 @@ flowchart LR
 - Собрал платформенное ядро, на котором сейчас работает 31 AI-продукт и 500K+ пользователей: gateway на FastAPI — шлюз, на котором сейчас работает 151+ нейросеть (роутинг, structured output, tool calling, MCP, фолбэки — неуспешных генераций меньше 1%), асинхронный слой на Celery и Redis/RabbitMQ — отклик API быстрее в 3–4 раза.
 - RAG на PostgreSQL + pgvector: HNSW, гибридный поиск с реранкером, evals LLM-as-a-judge — ~120 тыс. чанков, p95 retrieval ~120 мс, точность на эталонном наборе с ~70% до ~90%.
 - Кредитный биллинг на 90+ тарифов с ЮKassa и СБП: леджер на PostgreSQL с row-level locking и идемпотентностью, 95%+ успешных транзакций.
-- iGaming-платформа: 4 000+ игр от 50+ провайдеров, интеграции с 10+ микросервисами, шина RabbitMQ/Kafka, Redis-кеш — ключевые экраны быстрее на 30–40%; миграция Vue 2 → 3, Playwright + Allure на 100+ сценариев.
+- iGaming-платформа (бренд Champion Slots): 4 000+ игр от 50+ провайдеров, интеграции с 10+ микросервисами, шина RabbitMQ/Kafka, Redis-кеш — ключевые экраны быстрее на 30–40%; миграция Vue 2 → 3, Playwright + Allure на 100+ сценариев.
 - Team Lead Frontend трёх кросс-функциональных команд, затем Tech Lead ERA2: найм, перформанс-ревью, 1:1, архитектура, релизный процесс.
 
 **Skinopolis** — Backend (Node.js / NestJS), проект параллельно с Volta · *сентябрь 2025 — май 2026*
