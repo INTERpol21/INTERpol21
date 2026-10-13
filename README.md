@@ -146,6 +146,9 @@ flowchart LR
 - iGaming-платформа: 4 000+ игр от 50+ провайдеров, интеграции с 10+ микросервисами, шина RabbitMQ/Kafka, Redis-кеш — ключевые экраны быстрее на 30–40%; миграция Vue 2 → 3, Playwright + Allure на 100+ сценариев.
 - Team Lead Frontend трёх кросс-функциональных команд, затем Tech Lead ERA2: найм, перформанс-ревью, 1:1, архитектура, релизный процесс.
 
+**Skinopolis** — Backend (Node.js / NestJS), проект параллельно с Volta · *сентябрь 2025 — май 2026*
+- iGaming-платформа открытия кейсов CS2, основной разработчик бэкенда (~1 900 коммитов): NestJS 11 + Prisma/PostgreSQL (151 модель, 87 контроллеров), игровая логика с контролем RTP, платежи на 8 провайдерах с идемпотентными вебхуками и сверкой, real-time на Socket.IO + Redis, очереди BullMQ, WAF ModSecurity + OWASP CRS и CrowdSec.
+
 **Competent IT** — Senior Fullstack → Team Lead · *июль 2024 — июль 2025*
 - Web3-платформа Meta Force Space (2M+ пользователей, Polygon): токен Forcecoin, ядро метавселенной Uniteverse, Force Wallet, маркетплейс и NFT Goods — fullstack-архитектура на React 18, Vue 3, NestJS и PostgreSQL, MVP в прод меньше чем за 4 месяца.
 - Корпоративная дизайн-система на React/Next.js, Tailwind и Storybook: 40+ компонентов, 3+ команды-потребителя, сборка типовых интерфейсов в 2 раза быстрее.
