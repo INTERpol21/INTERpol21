@@ -20,7 +20,7 @@ Senior Fullstack / Backend и Tech Lead, 7+ лет. Делаю продукты 
 
 ## ⚡ AI-ядро
 
-В ERA2 на одном ядре сейчас работает 31 продукт и 500K+ пользователей: единый шлюз, на котором сейчас работает 151+ нейросеть от 15+ провайдеров, асинхронная очередь генераций, RAG на pgvector и общий кредитный биллинг. Новый продукт подключается конфигом, а не форком сервиса. **LLM-платформа ниже — те же архитектурные идеи в открытом коде**: пять сервисов, которые вместе дают исследовательского агента с честными цитатами и полным учётом расхода. Поднимается одной командой и работает офлайн на детерминированном мок-провайдере.
+В ERA2 на одном ядре сейчас работает 31 продукт и 500K+ пользователей: единый шлюз, на котором сейчас работает 151+ нейросеть от 15+ провайдеров, асинхронная очередь генераций, RAG на pgvector и общий кредитный биллинг. Новый продукт подключается конфигом, а не форком сервиса. **LLM-платформа ниже — мой pet-проект на тех же архитектурных идеях**: пять сервисов, которые вместе дают исследовательского агента с честными цитатами и полным учётом расхода. Поднимается одной командой и работает офлайн на детерминированном мок-провайдере. Код закрыт: в репозиториях — подробные описания, исходники покажу по запросу.
 
 ```mermaid
 flowchart LR
@@ -34,13 +34,13 @@ flowchart LR
     GW --> P["OpenAI · Anthropic · Ollama<br/>DeepSeek · Qwen · Moonshot"]
 ```
 
-| Сервис | Что внутри | CI |
+| Сервис | Что внутри | Код |
 |---|---|---|
-| [**llm-gateway**](https://github.com/INTERpol21/llm-gateway) | Один OpenAI-совместимый `/v1` к шести провайдерам: маршрутизация с алиасами и цепочками фолбэков, ретраи с full-jitter backoff, circuit breakers, точный и семантический кеш, rate limits и стоимость по ключам, обратимое вырезание персональных данных до провайдера, телеметрия в Postgres и Prometheus | ![ci](https://github.com/INTERpol21/llm-gateway/actions/workflows/ci.yml/badge.svg) |
-| [**rag-pgvector**](https://github.com/INTERpol21/rag-pgvector) | Поиск с цитатами `[n]`: гибридный ретривал (pgvector + BM25 / Postgres FTS) со слиянием convex или RRF, реранкер, evals с LLM-as-a-judge | ![ci](https://github.com/INTERpol21/rag-pgvector/actions/workflows/ci.yml/badge.svg) |
-| [**agent-orchestrator**](https://github.com/INTERpol21/agent-orchestrator) | Исследовательский агент на LangGraph: plan → execute → reflect → synthesize, параллельный сбор улик, трасса каждого шага, деградация без 500-х, чекпоинты в Postgres | ![ci](https://github.com/INTERpol21/agent-orchestrator/actions/workflows/ci.yml/badge.svg) |
-| [**mcp-tools-server**](https://github.com/INTERpol21/mcp-tools-server) | MCP-сервер на FastMCP: веб-поиск, read-only SQL, файловая песочница, `fetch_url` с защитой от SSRF; stdio и streamable HTTP из одной кодовой базы | ![ci](https://github.com/INTERpol21/mcp-tools-server/actions/workflows/ci.yml/badge.svg) |
-| [**llm-platform-console**](https://github.com/INTERpol21/llm-platform-console) | Консоль платформы: чат с живой трассой агента по SSE, каталог моделей, расход и стоимость, база знаний; весь стек одной командой | ![ci](https://github.com/INTERpol21/llm-platform-console/actions/workflows/ci.yml/badge.svg) |
+| [**llm-gateway**](https://github.com/INTERpol21/llm-gateway) | Один OpenAI-совместимый `/v1` к шести провайдерам: маршрутизация с алиасами и цепочками фолбэков, ретраи с full-jitter backoff, circuit breakers, точный и семантический кеш, rate limits и стоимость по ключам, обратимое вырезание персональных данных до провайдера, телеметрия в Postgres и Prometheus | 🔒 по запросу |
+| [**rag-pgvector**](https://github.com/INTERpol21/rag-pgvector) | Поиск с цитатами `[n]`: гибридный ретривал (pgvector + BM25 / Postgres FTS) со слиянием convex или RRF, реранкер, evals с LLM-as-a-judge | 🔒 по запросу |
+| [**agent-orchestrator**](https://github.com/INTERpol21/agent-orchestrator) | Исследовательский агент на LangGraph: plan → execute → reflect → synthesize, параллельный сбор улик, трасса каждого шага, деградация без 500-х, чекпоинты в Postgres | 🔒 по запросу |
+| [**mcp-tools-server**](https://github.com/INTERpol21/mcp-tools-server) | MCP-сервер на FastMCP: веб-поиск, read-only SQL, файловая песочница, `fetch_url` с защитой от SSRF; stdio и streamable HTTP из одной кодовой базы | 🔒 по запросу |
+| [**llm-platform-console**](https://github.com/INTERpol21/llm-platform-console) | Консоль платформы: чат с живой трассой агента по SSE, каталог моделей, расход и стоимость, база знаний; весь стек одной командой | 🔒 по запросу |
 
 ## 🚀 Продукты
 
